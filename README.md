@@ -1,8 +1,10 @@
-# DBMS Project: E-Commerce Web Application for Mina Electric
+# DBMS Project: Electric E-Commerce Web Application 
 
 ## Project Overview
 
-This project is an e-commerce web application developed for Mina Electric, a wholesaling business located in Karachi Electric Market, running since 1985. The application provides a modern, responsive platform for customers to browse products, view details, and place orders online. It is designed to manage product inventory, customer orders, and other related functionalities effectively.
+This is an Electric E-Commerce Website designed to provide a smooth and responsive experience for users to browse, search, and purchase electronic products online. The platform includes features like product catalog, user authentication, shopping cart, wishlist, order placement, and a dedicated admin panel for managing inventory and customer orders efficiently.
+
+
 
 ## Features
 
