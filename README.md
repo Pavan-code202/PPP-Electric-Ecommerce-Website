@@ -1,4 +1,4 @@
-# DBMS Project: Electric E-Commerce Web Application 
+# DBMS Project: E-Commerce Web Application 
 
 ## Project Overview
 
